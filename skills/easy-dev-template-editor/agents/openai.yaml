@@ -1,0 +1,4 @@
+interface:
+  display_name: "Easy Dev Template Editor"
+  short_description: "Safely customize Easy Dev Studio templates"
+  default_prompt: "Use $easy-dev-template-editor to customize an Easy Dev Studio generation template."
