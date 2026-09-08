@@ -10,7 +10,7 @@ Easy Dev Studio is a context-aware VS Code generator for Laravel, Django, Expres
 code --install-extension AnasNashaatAhmed.easy-dev-studio
 ```
 
-For manual installation, download [`easy-dev-studio-0.7.2.vsix`](./easy-dev-studio-0.7.2.vsix), then:
+For manual installation, download [`easy-dev-studio-0.7.3.vsix`](./easy-dev-studio-0.7.3.vsix), then:
 
 1. Open VS Code.
 2. Open **Extensions**.
@@ -21,7 +21,7 @@ For manual installation, download [`easy-dev-studio-0.7.2.vsix`](./easy-dev-stud
 Or install it from a terminal:
 
 ```powershell
-code --install-extension easy-dev-studio-0.7.2.vsix
+code --install-extension easy-dev-studio-0.7.3.vsix
 ```
 
 Extension ID: `AnasNashaatAhmed.easy-dev-studio`
@@ -29,7 +29,7 @@ Extension ID: `AnasNashaatAhmed.easy-dev-studio`
 SHA-256:
 
 ```text
-B6E952136B85B5321302A3EF1A11E6501D4545802E45C43CA07F7337AFF9D713
+455FE812257CA0A01FEB731E152C1491F17516A89E124374C0EC6D18876606E6
 ```
 
 ## Customize generated code
